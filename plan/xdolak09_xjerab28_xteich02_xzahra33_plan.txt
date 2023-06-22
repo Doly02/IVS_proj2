@@ -1,0 +1,47 @@
+
+	plan II. projekt 
+	
+	team: tomojavo 
+
+	casovy plan
+	-----------
+	
+	7.3  -  14.3	plan projektu, zalozeni git repozitare na serveru IVS, README, hlavickovy soubor knihovny mat.funkci 
+	14.3 -  21.3	implementace knihovny, kalkulacka testy
+	21.3 -  28.3	implementace GUI, napovedy + integrace knihovny a GUI
+	28.3 -  4.4	integrace, mockup druhe verze
+	4.4  -  11.4	installer 
+
+	ukoly podle clenu tymu
+	----------------------
+	
+	xdolak09 - Tomas Dolak 
+	- vytvoreni planu 
+	- vytvoreni GUI
+	- vytvoreni napovedy  
+	- dokumentace
+
+	xjerab28 - Jakub Jerabek
+	- README
+	- GUI 
+	- dokumentace
+	- mockup 
+
+	xteich02 - Vojtech Teichmann 
+	- hlavickovy soubor matematicke knihovny
+	- implementace knihovny
+	- vytvoreni Makefile 
+	- dokumentace
+
+	xzahra33 - Monika Zahradnikova 
+	- implementace testu 
+	- vytvoreni prezentace
+	- dokumentace 
+
+	zakladni ustanoveni tymu 
+	------------------------
+	- komunikace: Discord, Padlet, Messenger skupina, meetingy
+	- vyvijena kalkulacka pro Linux
+	- testy, matematicka knihovna i GUI, vyvijene v Pythonu
+	- dokumentace vedena v Doxygenu 
+	- globalni repozitar na IVS serveru 

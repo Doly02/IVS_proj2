@@ -1,0 +1,5 @@
+xdolak09 100%	(GUI, doxygen, instalator kalkulacky, mockup 2.0, napoveda, dokumentace)		
+xzahra33 100%	(testy mat.knihovny, Makefile, mockup 2.0, prezentace, dokumentace)		
+xjerab28 100%	(GUI, instalator profilingu, README, mockup 1.0, dokumentace)	
+xteich02 100%	(mat.knihovna + hlav.soubor, profilling, mockup 2.0, dokumentace)				
+

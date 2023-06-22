@@ -1,0 +1,6 @@
+Na profiling vytvořeného programu pro směrodatnou odchylku jsme využili modul cProfile.
+Program jsme profilovali na datech o velikosti 10, 1 000 a 1 000 000 číselných hodnot.
+
+Ve výsledcích můžeme vidět, že funkce naší naprogramované knihovny nezabrali mnoho času (až na 1 000 000 hodnot), což je dobře, protože to znamená, že funkce jsou efektivní, lze však vidět, že funkce sum a pow zaznamená největší počet volání
+
+Pokud by jsme měli knihovnu v budoucnosti optimalizovat, tak by bylo vhodné se zaměřit na již zmíněné dvě funkce nebo dalším možným řešením je přepsat knihovnu do jiného jazyka například do jazyka C.
