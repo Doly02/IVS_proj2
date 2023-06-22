@@ -1,0 +1,15 @@
+/home/doly02/Desktop/ivs/PROJECT_TWO/tomojavo/repo/build/CMakeFiles/build.dir
+/home/doly02/Desktop/ivs/PROJECT_TWO/tomojavo/repo/build/CMakeFiles/pack.dir
+/home/doly02/Desktop/ivs/PROJECT_TWO/tomojavo/repo/build/CMakeFiles/make_clean.dir
+/home/doly02/Desktop/ivs/PROJECT_TWO/tomojavo/repo/build/CMakeFiles/test.dir
+/home/doly02/Desktop/ivs/PROJECT_TWO/tomojavo/repo/build/CMakeFiles/doc.dir
+/home/doly02/Desktop/ivs/PROJECT_TWO/tomojavo/repo/build/CMakeFiles/run.dir
+/home/doly02/Desktop/ivs/PROJECT_TWO/tomojavo/repo/build/CMakeFiles/profile.dir
+/home/doly02/Desktop/ivs/PROJECT_TWO/tomojavo/repo/build/CMakeFiles/package.dir
+/home/doly02/Desktop/ivs/PROJECT_TWO/tomojavo/repo/build/CMakeFiles/package_source.dir
+/home/doly02/Desktop/ivs/PROJECT_TWO/tomojavo/repo/build/CMakeFiles/edit_cache.dir
+/home/doly02/Desktop/ivs/PROJECT_TWO/tomojavo/repo/build/CMakeFiles/rebuild_cache.dir
+/home/doly02/Desktop/ivs/PROJECT_TWO/tomojavo/repo/build/CMakeFiles/list_install_components.dir
+/home/doly02/Desktop/ivs/PROJECT_TWO/tomojavo/repo/build/CMakeFiles/install.dir
+/home/doly02/Desktop/ivs/PROJECT_TWO/tomojavo/repo/build/CMakeFiles/install/local.dir
+/home/doly02/Desktop/ivs/PROJECT_TWO/tomojavo/repo/build/CMakeFiles/install/strip.dir
