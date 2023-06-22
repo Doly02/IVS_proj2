@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=TomojavoCalc
+Exec=/usr/local/bin/TOMOJAVO_CALC
+Icon=Tomojavo_icon.png
+Terminal=false 
+Categories=Utility;

@@ -1,0 +1,10 @@
+Architecture: amd64
+Depends: python3, python3-tk
+Description: TomojavoCalc - LICENCE GNU 3.0 
+Maintainer: Vojtech Teichmann <xteich02@fit.vutbr.cz>
+Package: tomojavocalc
+Priority: optional
+Section: devel
+Version: 1.0
+Installed-Size: 239
+
